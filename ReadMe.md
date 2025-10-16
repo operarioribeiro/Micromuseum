@@ -29,7 +29,7 @@
 - United Nations Science Culture Organization (UNESCO) Open Air Diorama Museum:
  - World Heritage Convention (WHC) Heritage Sites Sculpture Ecomuseum.
  - International Council of Museums (ICOM) World Museums Halls Micromuseums.
- - Sponsor Galleries, Libraries, Archives, and Libraries (GLAM) Micromuseums.
+ - Sponsor Galleries, Libraries, Archives, and Libraries (GLAM) Micromuseums to have [franchises](https://en.wikipedia.org/wiki/Franchise) especially in cities without natural parks, touristic attractions, or museums like [horizonless](https://en.wikipedia.org/wiki/Kowloon_Walled_City) [slums](https://en.wikipedia.org/wiki/Slum) and [monotowns](https://en.wikipedia.org/wiki/Monotown).
 
 ## Open License:
 
