@@ -24,13 +24,15 @@
 
 **Micromuseum Open Methodology Regularization** requires the development of:
 
-- International Council of Museums (ICOM) Micromuseums Regulation.
-- International Comittee for Museology (ICOFOM) creation of an International Committee for Curatorship (ICOFC) with its due Ecocuratorhship and Microcuratorship Regulations.
-- United Nations Science Culture Organization (UNESCO) Open Air Diorama Museum:
+1. International Council of Museums (ICOM) Micromuseums Regulation.
+2. International Comittee for Museology (ICOFOM) creation of an International Committee for Curatorship (ICOFC) with its due Ecocuratorhship and Microcuratorship Regulations.
+3. United Nations Science Culture Organization (UNESCO) Open Air Diorama Museum:
  - World Heritage Convention (WHC) Heritage Sites Sculpture Ecomuseum.
  - International Council of Museums (ICOM) World Museums Halls Micromuseums.
- - Sponsor Galleries, Libraries, Archives, and Libraries (GLAM) Micromuseums to have [franchises](https://en.wikipedia.org/wiki/Franchise) especially in cities without natural parks, touristic attractions, or museums like [horizonless](https://en.wikipedia.org/wiki/Kowloon_Walled_City) [slums](https://en.wikipedia.org/wiki/Slum) and [monotowns](https://en.wikipedia.org/wiki/Monotown).
- - Micromonumental ecourbanism and ecoroads.
+ - Sponsor Galleries, Libraries, Archives, and Libraries (GLAM) Micromuseums to have franchises especially in cities without natural parks, touristic attractions, or museums like horizonless slums and monotowns.
+4. Micromonumental ecourbanism and ecoroads open touristic places that visitors can edit under transparent rules..
+5. Hospitalized people, enclosed personnel, and jail population mental health psyche-social support (MHPSS) welfare art therapy.
+6. Blue Shield International, United Nations Office for Disaster Risk Reduction (UNISDR) Cultural Heritage Recovery, and United Nations Alliance of Civilizations (UNAOC) Religious Sites Safeguard diorama micro heritage sites and artifacts.
 
 ## Open License:
 
